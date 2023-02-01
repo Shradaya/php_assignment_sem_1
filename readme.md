@@ -39,3 +39,4 @@ The web pages are defined here.
 * Start off with renaming the db_example.php to db.php and inserting the correct db informations in place of the astreiks.
 * Visit the root folder from the command line
 * Execute the command `php -S localhost:8000 -t .`
+* Visit the url http://localhost:8000 from your browser
